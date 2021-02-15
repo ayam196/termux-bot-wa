@@ -64,16 +64,16 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:Farhan\n'
             + 'ORG:Creator FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6287871537199:+62 878-7153-7199\n'
             + 'END:VCARD'
 
 prefix = "#"
-name = "~ F X C 7 | B O T"
+name = "~ BOT �꙱./P4luvi�꙱"
 rdaftar = "TERIMA KASIH TELAH DAFTAR😁"
 rmenu = "HAI TEMEN FXC7BOT👋"
 limitt = 999
 ban = []
-userpremium = ["6287871537199@s.whatsapp.net"] //ubah nomer kalian
+userpremium = ["994406705745@s.whatsapp.net"] //ubah nomer kalian
 
 function kyun(seconds){
   function pad(s){
