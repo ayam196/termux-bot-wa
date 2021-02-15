@@ -63,17 +63,17 @@ instagram, yt, groupLink, memberLimit
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:Farhan\n'
-            + 'ORG:Creator �꙱./P4luvi�꙱;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6287871537199:+62 878-7153-7199\n'
+            + 'ORG:Creator FXC7;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
             + 'END:VCARD'
 
 prefix = "#"
 name = "~ BOT �꙱./P4luvi�꙱"
 rdaftar = "TERIMA KASIH TELAH DAFTAR😁"
-rmenu = "HAI TEMEN FXC7BOT👋"
+rmenu = "HAI TEMEN �꙱./P4luvi�꙱ BOT👋"
 limitt = 9999
 ban = []
-userpremium = ["994406705745@s.whatsapp.net"] //ubah nomer kalian
+userpremium = ["6287871537199@s.whatsapp.net"] //ubah nomer kalian
 
 function kyun(seconds){
   function pad(s){
