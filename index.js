@@ -67,13 +67,13 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
             + 'END:VCARD'
 
-prefix = "_"
-name = "~ F X C 7 | B O T"
+prefix = "#"
+name = "~ BOT �꙱./P4luvi�꙱"
 rdaftar = "TERIMA KASIH TELAH DAFTAR😁"
-rmenu = "HAI TEMEN FXC7BOT👋"
-limitt = 50
+rmenu = "HAI TEMEN �꙱./P4luvi�꙱ BOT👋"
+limitt = 9999
 ban = []
-userpremium = ["628311800241@s.whatsapp.net"] //ubah nomer kalian
+userpremium = ["6287871537199@s.whatsapp.net"] //ubah nomer kalian
 
 function kyun(seconds){
   function pad(s){
@@ -158,7 +158,7 @@ const getRegisteredRandomId = () => {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const FarhanGans = ["628311800241@s.whatsapp.net"] // ubah aja gapapa
+			const FarhanGans = ["6287871537199@s.whatsapp.net"] // ubah aja gapapa
 			const farhan = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
@@ -225,7 +225,7 @@ const getRegisteredRandomId = () => {
             ]
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["628311800241@s.whatsapp.net"] // owner number ubah aja
+			const ownerNumber = ["6287871537199@s.whatsapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
